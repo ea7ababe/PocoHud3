@@ -1732,7 +1732,7 @@ function TPocoHud3:_hook()
 			if not t and O:get('game','interactionClickStick') and not complete and (lastInteractionStart < lastClick) then
 				local caller = debug.getinfo(3,'n')
 				caller = caller and caller.name
-				if caller == '_check_action_interact' then
+				if caller == '_update_check_actions' then
 					return -- ignore interruption
 				end
 			end
