@@ -192,7 +192,7 @@
     "_opt_ingameJoinRemaining": "INGAME JOIN REMAINING",
     "_opt_ingameJoinRemaining_desc": "In-game SOMEONE IS JOINING dialog will show you how many seconds left",
     "_opt_interactionClickStick": "STICKY INTERACTION",
-    "_opt_interactionClickStick_desc": "Aim down sight while interacting to initiate STICKY INTERACTION. ADS again to stop interacting.",
+    "_opt_interactionClickStick_desc": "Press primary attack button while interacting to initiate STICKY INTERACTION. Attack again to stop interacting.",
     "_opt_justify": "JUSTIFY",
     "_opt_justify_desc": "Icon alignment (vertical for vanilla style)",
     "_opt_keepOnScreen": "KEEP ON SCREEN",

@@ -190,7 +190,7 @@
     "_opt_ingameJoinRemaining": "TIEMPO RESTANTE PARA UNIRSE",
     "_opt_ingameJoinRemaining_desc": "Te indica el tiempo restante en segundos para que termine de unirse un jugador en mitad de la partida",
     "_opt_interactionClickStick": "MANTENER INTERACCIÓN",
-    "_opt_interactionClickStick_desc": "Pulsa la tecla de usar tu mirilla -Por defecto Click Derecho- para comenzar \"Mantener Interacción\". Vuelve a apuntar una vez más para cancelar la interacción.",
+    "_opt_interactionClickStick_desc": "Pulsa la tecla de ataque primario -Por defecto Clic Izquierdo- para comenzar \"Mantener Interacción\". Ataque una vez más para cancelar la interacción.",
     "_opt_justify": "ALINEAR",
     "_opt_justify_desc": "Alienación de los iconos (Arriba es la opción más parecida al juego por defecto)",
     "_opt_keepOnScreen": "MANTENER EN PANTALLA",

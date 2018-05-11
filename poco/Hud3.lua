@@ -1537,7 +1537,7 @@ function TPocoHud3:_hook()
 
 			-- StickyInteraction trigger
 			local lastInteractionStart, lastClick = me._lastInteractStart or 0, me._lastClick or 0
-			if input.btn_steelsight_press and O:get('game','interactionClickStick') and self:_interacting() then
+			if input.btn_primary_attack_press and O:get('game','interactionClickStick') and self:_interacting() then
 				if lastInteractionStart < lastClick then
 					me._lastClick = 0
 					self:_interupt_action_interact()
